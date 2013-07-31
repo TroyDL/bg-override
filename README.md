@@ -4,7 +4,9 @@ bg-override
 Chrome extension to override all background colors of all elements.
 
 ## To use:
-Navigate to chrome://extensions, check Developer mode in top right if it is not checked already and then click 'Load unpacked extension...'.
+- Navigate to chrome://extensions
+- Check Developer mode in top right if it is not checked already
+- Click 'Load unpacked extension...' and navigate to the bg-override folder.
 
 ## Future goals:
 - On/off switch
